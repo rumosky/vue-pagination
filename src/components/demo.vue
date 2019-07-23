@@ -1062,7 +1062,7 @@
       }
     },
     mounted() {
-      this.getNew(1);
+      this.getNew(0);
       this.num = this.activityList.length;
     }
   }
