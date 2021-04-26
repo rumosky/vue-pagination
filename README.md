@@ -4,9 +4,11 @@
 
 在线预览：https://rumosky_admin.gitee.io/vue-pagination
 
+Github：https://github.com/rumosky/vue-pagination.git
+
 ## 使用方法
 
-详细使用方法：https://www.rumosky.com/archives/247.html
+详细使用方法：https://rumosky.com/archives/158
 
 此处就不再赘述
 
